@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Project Restaurant-menu
 
 https://kris-restaurant.netlify.app/
